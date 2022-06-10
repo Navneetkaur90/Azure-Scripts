@@ -1,0 +1,6 @@
+terraform/storageacc1/.terraform.lock.hcl
+*.exe
+*.tfstate
+*.backup
+*.hcl
+*.json
